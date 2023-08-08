@@ -40,7 +40,6 @@ dokku letsencrypt:enable $DOKKU_APP
 
 Save livebooks to a directory on the Docker host
 
-
 ```sh
 export APP_DATA={{some path on the Dokku host}}
 dokku docker-options:add $DOKKU_APP deploy "-v $APP_DATA:/data"
