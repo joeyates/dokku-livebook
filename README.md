@@ -1,5 +1,9 @@
 # dokku-livebook
 
+ARCHIVED REPOSITORY
+
+This repo is superseded by [the Dockerfile version](https://github.com/joeyates/dokku-dockerfile-deployments/tree/main/livebook).
+
 Run Elixir Livebooks in Dokku
 
 # Configuration
